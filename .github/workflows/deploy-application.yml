@@ -2,7 +2,7 @@ name: Deploy Application
 
 on:
   branches:
-    - master
+    - main
 
 jobs:
   create-deploy-artifacts:
